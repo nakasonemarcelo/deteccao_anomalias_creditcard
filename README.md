@@ -1,9 +1,5 @@
 # 🛡️ Detecção de Fraudes em Cartão de Crédito
 
-![Python](https://shields.io)
-![Scikit-Learn](https://shields.io)
-![Pandas](https://shields.io)
-
 Este projeto visa desenvolver um sistema robusto de detecção de fraudes em transações de cartão de crédito utilizando técnicas avançadas de **Aprendizado de Máquina**. 
 
 O desafio central reside no desequilíbrio extremo do dataset (*Credit Card Fraud Detection*), onde as fraudes representam uma fração mínima do total de transações, exigindo estratégias específicas de pré-processamento e avaliação.
